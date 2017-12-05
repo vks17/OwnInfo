@@ -1,0 +1,11 @@
+Package: OwnInfo
+Type: Package
+Title: OWN FUNCTION
+Version: 0.1.0
+Author: c(person("Vivek", "Developer", role = c("aut", "cre"),
+                     email = "vks.itbhu@gmail.com"))
+Maintainer: Vivek Singh <vks.itbhu@gmail.com>
+Description: Combination of useful functions - written for making day to day work easy
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
